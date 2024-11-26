@@ -8,9 +8,9 @@ In the present analysis we use empirical-statistical bias correction and downsca
 subsubsection{Bias Correction using Quantile Mapping}
 
 The quantile mapping approach (section 3.2.5 \citet{teutschbein2012bias}) aligns the cumulative distribution functions (CDFs) of CMIP6 model data and ERA5 or any other observations data over a historical period, then applies this relationship to the future projections. The process steps are as follows for all variables except precipitation:
-\begin{enumerate}
-    \item Fit normal distributions to observed and simulated data:
+
+item Fit normal distributions to observed and simulated data:
     
-   $$ X \sim \mathcal{N}(\mu, \sigma).\end{equation}$$
+$$ X \sim \mathcal{N}(\mu, \sigma).\end{equation}$$
     
 
