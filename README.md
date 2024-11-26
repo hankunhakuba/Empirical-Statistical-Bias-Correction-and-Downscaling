@@ -10,7 +10,7 @@ The quantile mapping approach (section 3.2.5 \citet{teutschbein2012bias}) aligns
 \begin{enumerate}
     \item Fit normal distributions to observed and simulated data:
     
-    $`\begin{equation}X \sim \mathcal{N}(\mu, \sigma).\end{equation}`$
+    \begin{equation}X \sim \mathcal{N}(\mu, \sigma).\end{equation}
     
     \item Using the fitted mean and standard deviation, calculate the theoretical CDFs for both the observed and simulated data
     
