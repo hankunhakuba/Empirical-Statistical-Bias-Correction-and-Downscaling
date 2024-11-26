@@ -11,6 +11,6 @@ The quantile mapping approach (section 3.2.5 \citet{teutschbein2012bias}) aligns
 
 item Fit normal distributions to observed and simulated data:
     
-$$ X \sim \mathcal{N}(\mu, \sigma).\end{equation}$$
+$$ \begin{equation}  X \sim \mathcal{N}(\mu, \sigma).\end{equation} \end{equation} $$
     
 
