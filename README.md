@@ -13,4 +13,4 @@ item Fit normal distributions to observed and simulated data:
     
 $`\begin{equation}  X \sim \mathcal{N}(\mu, \sigma).\end{equation} \end{equation} `$
     
-
+##### New addition 
